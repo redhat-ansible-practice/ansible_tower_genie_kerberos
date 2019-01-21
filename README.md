@@ -1,4 +1,4 @@
-# ahuffman.ansible-tower-kerberos
+# ansible_tower_genie_kerberos
 ## Description
 An Ansible role to configure Ansible Tower nodes to manage Windows systems.
 
